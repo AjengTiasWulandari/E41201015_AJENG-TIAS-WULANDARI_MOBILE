@@ -3,14 +3,14 @@
 
 I'm build application mobile for tugas kampus
 
-##Feature
+## Feature
 
 -Slicing design to code
 -Connect to API
 -Showing data's
 
 
-#Tech
+## Tech
 
 This it application mobile use tech, as an example:
 
